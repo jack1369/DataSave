@@ -1,31 +1,24 @@
 {
 
-"time": "2020年12月10日_16:48:20",
+	"time": "2020年12月10日_16:48:20",
 
-"data": [{
+	"data": [{
+		"isuse": "是否可以使用，默认true",
+		"on_trial_start_time": "试用开始时间",
+		"effective_time": "会员有效时间段",
+		"to_vip_time": "申请vip时间",
+		"permanent_vip_time": "申请vip时间",
+		"apply_vip_time": "申请vip时间",
+		"device_sn": "设备sn"
+	}, {
 
-"isuse": "是否可以使用，默认true",
-
-"on_trial_start_time": "试用开始时间",
-
-"effective_time": "会员有效时间段",
-
-"apply_vip_time": "申请vip时间",
-
-"device_sn": "设备sn"
-
-}, {
-
-"isuse": "是否可以使用，默认true",
-
-"on_trial_start_time": "试用开始时间",
-
-"effective_time": "会员有效时间段",
-
-"apply_vip_time": "申请vip时间",
-
-"device_sn": "设备sn"
-
-}]
+		"isuse": "是否可以使用，默认true",
+		"on_trial_start_time": "试用开始时间",
+		"effective_time": "会员有效时间段",
+		"to_vip_time": "申请vip时间",
+		"permanent_vip_time": "申请vip时间",
+		"apply_vip_time": "申请vip时间",
+		"device_sn": "设备sn"
+	}]
 
 }
